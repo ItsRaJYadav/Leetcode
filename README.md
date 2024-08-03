@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ItsRaJYadav/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0009-palindrome-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 ## Greedy
