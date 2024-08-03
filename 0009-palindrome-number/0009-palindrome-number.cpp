@@ -6,7 +6,16 @@ public:
         string s = to_string(x); 
         string s2 = s; 
         reverse(s2.begin(), s2.end());
-        return (s == s2)?1:0;
+        return (s == s2);
+        
+        if(s==s2)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
         
     }
 };
