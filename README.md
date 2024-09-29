@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -36,11 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
@@ -50,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
