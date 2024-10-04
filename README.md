@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/ItsRaJYadav/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
