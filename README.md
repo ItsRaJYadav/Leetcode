@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ItsRaJYadav/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ItsRaJYadav/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
@@ -86,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ItsRaJYadav/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ItsRaJYadav/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
