@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
