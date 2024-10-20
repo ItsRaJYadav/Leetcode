@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
