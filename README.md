@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Sliding Window
 |  |
 | ------- |
