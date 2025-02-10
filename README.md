@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsRaJYadav/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -94,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsRaJYadav/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/0258-add-digits) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsRaJYadav/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
