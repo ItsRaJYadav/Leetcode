@@ -137,18 +137,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/0101-symmetric-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/0101-symmetric-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/0101-symmetric-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/0101-symmetric-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ItsRaJYadav/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
