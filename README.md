@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ItsRaJYadav/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2630-alternating-digit-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Greedy
 |  |
