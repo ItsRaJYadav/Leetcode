@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ItsRaJYadav/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2630-alternating-digit-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ItsRaJYadav/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Greedy
 |  |
 | ------- |
