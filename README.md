@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/ItsRaJYadav/Leetcode/tree/master/0260-single-number-iii) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
