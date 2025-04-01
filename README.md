@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
