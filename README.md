@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/ItsRaJYadav/Leetcode/tree/master/0260-single-number-iii) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ItsRaJYadav/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
@@ -197,4 +201,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
