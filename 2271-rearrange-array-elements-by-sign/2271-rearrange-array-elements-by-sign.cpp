@@ -11,11 +11,22 @@ public:
             }
         }
 
-        for (int i = 0; i < nums.size() / 2; i++) {
-            nums[2*i]=positive[i];
-            nums[2*i+1]=negative[i];
+        // for (int i = 0; i < nums.size() / 2; i++) {
+        //     nums[2*i]=positive[i];
+        //     nums[2*i+1]=negative[i];
+        // }
+
+        // return nums;
+
+        int i = 0, j = 0;
+        vector<int> ans;
+        while (i < positive.size() && j < negative.size()) {
+            ans.emplace_back(positive[i++]);
+            ans.emplace_back(negative[j++]);
         }
 
-        return nums;
+        return ans;
+
+        //worst brute force with 
     }
 };
