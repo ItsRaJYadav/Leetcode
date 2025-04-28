@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ItsRaJYadav/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ItsRaJYadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ItsRaJYadav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ItsRaJYadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
