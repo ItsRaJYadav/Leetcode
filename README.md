@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ItsRaJYadav/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ItsRaJYadav/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
