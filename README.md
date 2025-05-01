@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ItsRaJYadav/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ItsRaJYadav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ItsRaJYadav/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
