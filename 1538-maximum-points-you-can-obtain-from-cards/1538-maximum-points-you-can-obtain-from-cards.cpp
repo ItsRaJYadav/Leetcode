@@ -9,13 +9,18 @@ public:
         }
 
         int maxSum = leftSum;
-        int rightIndex=n-1;
 
-        for(int i=k-1 ; i>=0; i--){
-            leftSum-=nums[i];
-            rightSum+=nums[rightIndex];
-            rightIndex--;
-            maxSum= max(leftSum+ rightSum, maxSum);
+        // for(int i=k-1 ; i>=0; i--){
+        //     leftSum-=nums[i];
+        //     rightSum+=nums[rightIndex];
+        //     rightIndex--;
+        //     maxSum= max(leftSum+ rightSum, maxSum);
+        // }
+
+
+        for(int i=0; i<k; i++){
+            leftSum= leftSum- nums[k-1-i] + nums[n-1-i];
+            maxSum= max(maxSum, leftSum);
         }
 
         return maxSum;
