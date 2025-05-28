@@ -7,7 +7,6 @@ public:
             mp[nums[i]]++;
         }
 
-
         for (auto& x : mp) {
             if (x.second % 2 != 0)
                 return false;
