@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ItsRaJYadav/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/ItsRaJYadav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ItsRaJYadav/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
