@@ -6,7 +6,7 @@ public:
 
         bool onlyNeg = true;
 
-        int maxNeg = INT_MIN;
+        int maxNeg = -100;
 
         for (int num : nums) {
             if (num >= 0 && seen.find(num) == seen.end()) {
