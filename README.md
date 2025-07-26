@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ItsRaJYadav/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ItsRaJYadav/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ItsRaJYadav/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ItsRaJYadav/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
