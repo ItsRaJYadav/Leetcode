@@ -249,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ItsRaJYadav/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
