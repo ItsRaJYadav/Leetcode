@@ -8,7 +8,7 @@ public:
         //     for (int j = i; j < n; j++) {
         //         if (nums[j] != 0)
         //             break;
-        //         result++;
+        //         res++;
         //     }
         // }
 
