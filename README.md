@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ItsRaJYadav/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ItsRaJYadav/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ItsRaJYadav/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ItsRaJYadav/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
