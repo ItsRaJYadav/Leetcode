@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ItsRaJYadav/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/ItsRaJYadav/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/ItsRaJYadav/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ItsRaJYadav/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/ItsRaJYadav/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/ItsRaJYadav/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/ItsRaJYadav/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ItsRaJYadav/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
