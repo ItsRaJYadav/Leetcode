@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ItsRaJYadav/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ItsRaJYadav/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItsRaJYadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0868-push-dominoes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0868-push-dominoes) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ItsRaJYadav/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsRaJYadav/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
