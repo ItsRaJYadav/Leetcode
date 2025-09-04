@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2630-alternating-digit-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ItsRaJYadav/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ItsRaJYadav/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3830-find-closest-person](https://github.com/ItsRaJYadav/Leetcode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
