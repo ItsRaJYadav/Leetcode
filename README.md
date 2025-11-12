@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ItsRaJYadav/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ItsRaJYadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0868-push-dominoes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ItsRaJYadav/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
@@ -277,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ItsRaJYadav/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
