@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1293-three-consecutive-odds](https://github.com/ItsRaJYadav/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/ItsRaJYadav/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ItsRaJYadav/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ItsRaJYadav/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/ItsRaJYadav/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ItsRaJYadav/Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Stack
 |  |
