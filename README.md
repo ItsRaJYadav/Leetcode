@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/ItsRaJYadav/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ItsRaJYadav/Leetcode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ItsRaJYadav/Leetcode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ItsRaJYadav/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -290,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ItsRaJYadav/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
