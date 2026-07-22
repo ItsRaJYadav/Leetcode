@@ -1,16 +1,14 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int n=nums.size();
-
-        int start= 0, end= n-1;
-        while(start<=end){
-            int mid= start+(end-start)/2;
-            if(nums[mid]==target) return mid;
-            if(nums[mid]<=target) start= mid+1;
-            else end= mid-1;
+        for (int i = 0; i < nums.size(); i++) {
+            //  cout<<"this is nums"<<nums[i]<< "and target"<<" "<< target;
+            if (nums[i] >= target) {
+               
+                return i;
+            }
         }
 
-        return start;
+        return nums.size();
     }
 };
