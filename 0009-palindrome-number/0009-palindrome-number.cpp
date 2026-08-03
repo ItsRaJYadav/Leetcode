@@ -1,11 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x<0) return false;  // base condition
-        string s = to_string(x); 
-        string s2 = s; 
-        reverse(s2.begin(), s2.end());
-        return (s == s2);
-        
+        int dedup= x;
+          long long rev= 0;
+
+         if(x<0) return false;
+         while(x!= 0){
+            int digit= x%10;
+            rev= (rev*10) + digit;
+            // if(rev> INT_MAX/10 || rev < INT_MIN/10){
+            //     return 0;
+            // }
+            x= x/10;
+        }
+        return rev== dedup;
     }
 };
