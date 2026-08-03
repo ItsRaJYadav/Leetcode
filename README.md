@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ItsRaJYadav/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ItsRaJYadav/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/ItsRaJYadav/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ItsRaJYadav/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ItsRaJYadav/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2630-alternating-digit-sum](https://github.com/ItsRaJYadav/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ItsRaJYadav/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Tree
 |  |
 | ------- |
@@ -297,4 +300,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ItsRaJYadav/Leetcode/tree/master/0278-first-bad-version) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
