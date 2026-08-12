@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ItsRaJYadav/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ItsRaJYadav/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsRaJYadav/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ItsRaJYadav/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ItsRaJYadav/Leetcode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/ItsRaJYadav/Leetcode/tree/master/0868-push-dominoes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsRaJYadav/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsRaJYadav/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ItsRaJYadav/Leetcode/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsRaJYadav/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsRaJYadav/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/ItsRaJYadav/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -321,4 +324,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ItsRaJYadav/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsRaJYadav/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
