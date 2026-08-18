@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ItsRaJYadav/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/ItsRaJYadav/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ItsRaJYadav/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsRaJYadav/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/ItsRaJYadav/Leetcode/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ItsRaJYadav/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ItsRaJYadav/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ItsRaJYadav/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ItsRaJYadav/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
